@@ -14,13 +14,13 @@
                 <img src="images/logo.jpg" alt="logo" align="center" width="90%" height="20%"/></td>
                
                 <ul id="menu">
-                    <li><a href="./index">Home</a></li>
-                    <li><a href="./About">Facilities</a></li>
-                    <li><a href="./People">People</a></li>
-		        <li><a href="./Events">Events</a></li>
-                    <li><a href="./Publications">Publications</a></li>
-                    <li><a href="./Contact">Contact</a></li>
-                    <li><a href="./Links">Links</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="About.php">Facilities</a></li>
+                    <li><a href="People.php">People</a></li>
+		        <li><a href="Events.php">Events</a></li>
+                    <li><a href="Publications.php">Publications</a></li>
+                    <li><a href="Contact.php">Contact</a></li>
+                    <li><a href="Links.php">Links</a></li>
                 </ul>
 		</div>
                 <div id="content">
